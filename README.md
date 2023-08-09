@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/ahmed-mohamed-abdel-rashied/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ahmedm.abdelrashied@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
  
 </div>
 <div id="badges" , align="center">
@@ -28,9 +25,9 @@
 My journey in the field of data science began with a fascination for the potential of machine learning and deep learning algorithms to uncover meaningful insights from vast amounts of data. I have acquired a deep understanding of various machine learning techniques and frameworks, enabling me to develop predictive models and perform data analysis to drive data-informed decisions. I am particularly enthusiastic about leveraging the power of data to solve real-world problems and make a positive impact.</p>
 
 
-- :mailbox:How to reach me: [![gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](ahmedm.abdelrashied@gmail.com) [![gmail Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-abdel-rashied)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-abdel-rashied)
 
----
+--- 
 
 ### :hammer_and_wrench: Programming Languages and Tools :
 
