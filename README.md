@@ -26,9 +26,7 @@
 ### :woman_technologist: About Me :
 - :telescope: Hello, I'm Ahmed AbdelRashied, a passionate Data Scientist with a strong background in machine learning, deep learning, and data analytics. I have completed several courses in data engineering, including the Data Engineering Professional Certificate provided by IBM and the Data Engineering Nanodegree from Udacity, which have equipped me with a comprehensive understanding of building efficient data pipelines and managing complex data sets.
 My journey in the field of data science began with a fascination for the potential of machine learning and deep learning algorithms to uncover meaningful insights from vast amounts of data. I have acquired a deep understanding of various machine learning techniques and frameworks, enabling me to develop predictive models and perform data analysis to drive data-informed decisions. I am particularly enthusiastic about leveraging the power of data to solve real-world problems and make a positive impact.</p>
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](ahmedm.abdelrashied@gmail.com) [![gmail Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-abdel-rashied)
 
